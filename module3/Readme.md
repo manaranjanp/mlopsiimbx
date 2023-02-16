@@ -1,4 +1,4 @@
-This folder contains the notebook for the module 2.
+This folder contains the notebook for the module 3.
 
 ### ML Pipeline Creation
 
